@@ -1,4 +1,10 @@
+import { Header } from "../components/Header";
+
 /* eslint-disable react/react-in-jsx-scope */
 export function History(){
-    return <h1>History</h1>
+    return (
+            <div>
+                <h1>History</h1>
+            </div>
+        )
 }
