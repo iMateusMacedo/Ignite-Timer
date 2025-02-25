@@ -1,4 +1,4 @@
-import { Header } from "../components/Header";
+import { Header } from "../components/Header/Index";
 
 /* eslint-disable react/react-in-jsx-scope */
 export function History(){
